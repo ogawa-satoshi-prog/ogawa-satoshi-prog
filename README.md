@@ -1,4 +1,4 @@
-### Hi I'm Satoshi. Welecome to my Github 👋
+### Hi! I'm Satoshi. Welecome to my Github 👋
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogawa-satoshi-prog&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ogawa-satoshi-prog&theme=onedark&show_icons=ture" />
