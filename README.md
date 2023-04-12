@@ -1,7 +1,10 @@
 ### Hi! I'm Satoshi. Welecome to my Github 👋
+
+[![trophy](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ogawa-satoshi-prog&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogawa-satoshi-prog&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ogawa-satoshi-prog&theme=onedark&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=ogawa-satoshi-prog&count_private=true&show_icons=true&theme=dracula" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogawa-satoshi-prog&layout=compact&theme=dracula" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ogawa-satoshi-prog&theme=onedark&column=7
